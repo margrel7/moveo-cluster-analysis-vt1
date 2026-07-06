@@ -1,0 +1,28 @@
+cluster_id,n_total,n_works_well,n_problem,label_de,label_en,description_de,llm_raw
+0,11,8,3,Fahrradabstellanlagen & -wege Winterthur,Bicycle Parking & Cycle Paths Winterthur,Diese Gruppe behandelt spezifische Beschwerden und Anmerkungen zu Veloständen und -wegen in der Stadt.,"DE: Fahrradabstellanlagen & -wege Winterthur
+EN: Bicycle Parking & Cycle Paths Winterthur
+DESC: Diese Gruppe behandelt spezifische Beschwerden und Anmerkungen zu Veloständen und -wegen in der Stadt."
+1,18,7,11,Bahnhofs Innenraumgestaltung & Licht,Train Station Interior Design & Light,Diese Gruppe behandelt Beschwerden und Vorschläge zur Verbesserung des Lichts und der Gestaltung in Bahnhöfen.,"DE: Bahnhofs Innenraumgestaltung & Licht
+EN: Train Station Interior Design & Light
+DESC: Diese Gruppe behandelt Beschwerden und Vorschläge zur Verbesserung des Lichts und der Gestaltung in Bahnhöfen."
+2,20,18,2,Zugwartezonen & Infrastruktur Winterthur,Train Station Waiting Areas & Infrastructure Winterthur,Diese Gruppe konzentriert sich speziell auf die Erfahrungen in den Wartebereichen und zugehörigen Infrastrukturen der Züge in Winterthur.,"DE: Zugwartezonen & Infrastruktur Winterthur
+EN: Train Station Waiting Areas & Infrastructure Winterthur
+DESC: Diese Gruppe konzentriert sich speziell auf die Erfahrungen in den Wartebereichen und zugehörigen Infrastrukturen der Züge in Winterthur."
+3,24,15,9,Zugpünktlichkeit & Verspätungen Winterthur,Train punctuality & delays Winterthur,Diese Gruppe konzentriert sich ausschließlich auf die Pünktlichkeit und Verspätungen von Zügen in Winterthur.,"DE: Zugpünktlichkeit & Verspätungen Winterthur
+EN: Train punctuality & delays Winterthur
+DESC: Diese Gruppe konzentriert sich ausschließlich auf die Pünktlichkeit und Verspätungen von Zügen in Winterthur."
+4,9,2,7,Grünflächen & Bepflanzung Winterthur / Green Spaces & Planting Winterthur,Green Spaces & Planting Winterthur,Diese Gruppe umfasst Beschwerden über fehlende und unzureichende Grünflächen und Bepflanzungen in der Umgebung des Bahnhofs.,"DE: Grünflächen & Bepflanzung Winterthur / Green Spaces & Planting Winterthur
+EN: Green Spaces & Planting Winterthur
+DESC: Diese Gruppe umfasst Beschwerden über fehlende und unzureichende Grünflächen und Bepflanzungen in der Umgebung des Bahnhofs."
+5,20,6,14,Altstadt Verkehr & Bebauung,Old Town Traffic & Development,Diese Gruppe konzentriert sich auf die spezifischen Probleme im verkehrsreichen und bebauten Gebiet der Altstadt.,"DE: Altstadt Verkehr & Bebauung
+EN: Old Town Traffic & Development
+DESC: Diese Gruppe konzentriert sich auf die spezifischen Probleme im verkehrsreichen und bebauten Gebiet der Altstadt."
+6,25,17,8,Bahnhof Perron Design & Atmosphäre,Train Station Platform Design & Atmosphere,Diese Gruppe konzentriert sich speziell auf die Gestaltung und das Gefühl der Bahnsteige im Bahnhof Winterthur.,"DE: Bahnhof Perron Design & Atmosphäre
+EN: Train Station Platform Design & Atmosphere
+DESC: Diese Gruppe konzentriert sich speziell auf die Gestaltung und das Gefühl der Bahnsteige im Bahnhof Winterthur."
+7,29,24,5,Busnetz & Verbindungen Winterthur / Bus Network & Connections Winterthur,Bus Network & Connections Winterthur,Diese Gruppe konzentriert sich auf die Qualität und Struktur des Busverkehrs in der Stadt.,"DE: Busnetz & Verbindungen Winterthur / Bus Network & Connections Winterthur
+EN: Bus Network & Connections Winterthur
+DESC: Diese Gruppe konzentriert sich auf die Qualität und Struktur des Busverkehrs in der Stadt."
+8,20,2,18,Busstop Kreuzungsverkehr & Gefahren / Bus Stop Crossings & Hazards,Bus Stop Crossing Traffic & Risks,Diese Gruppe thematisiert vor allem die Gefahrensituationen an den Bushaltestellen bezüglich des Verkehrs.,"DE: Busstop Kreuzungsverkehr & Gefahren / Bus Stop Crossings & Hazards
+EN: Bus Stop Crossing Traffic & Risks
+DESC: Diese Gruppe thematisiert vor allem die Gefahrensituationen an den Bushaltestellen bezüglich des Verkehrs."
