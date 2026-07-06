@@ -1,2 +1,2 @@
 outputs/*.html
-data/images/*.jpg
+data/images/*.jpg.DS_Store
